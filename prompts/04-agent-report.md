@@ -1,0 +1,16 @@
+# Required final response from coding agent
+
+TASK-ID:
+STATUS: PASS / PARTIAL / FAIL
+REPO / BRANCH / HEAD SHA:
+SHORT SUMMARY:
+FILES CHANGED:
+MIGRATIONS / API CONTRACT:
+TESTS ACTUALLY RUN + RESULTS:
+SCREENSHOT / DEMO PROOF:
+SECURITY / PRIVACY / COST NOTES:
+KNOWN FAILURES / NOT TESTED:
+UPDATED DOCS:
+RECOMMENDED NEXT TASK:
+
+If no commit was created, say NO COMMIT. Never say complete when any acceptance gate remains unchecked.
